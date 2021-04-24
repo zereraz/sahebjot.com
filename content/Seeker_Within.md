@@ -1,7 +1,9 @@
 +++
 title = "The Seeker Within"
 date = 2021-04-24
-category = "essays"
+
+[taxonomies]
+categories = ["essay"]
 tags = ["seeker", "truth", "life"]
 +++
 
