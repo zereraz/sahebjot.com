@@ -6,7 +6,7 @@ template = "about.html"
 
 
 I'm Sahebjot and this is my blog.
-I'm a software engineer, budding entrepreneur, deeply into spirituality, am a **Sikh ☬**.
+I'm a software engineer, budding entrepreneur, deeply into spirituality. I am a **Sikh ☬**.
 
 I started this blog mainly to practice my writing, which isn't great to be honest.
 

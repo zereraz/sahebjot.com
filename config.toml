@@ -24,8 +24,8 @@ taxonomies = [
 author = "sahebjot"
 even_menu = [
     {url = "$BASE_URL", name = "Home"},
-    # {url = "$BASE_URL/categories", name = "Categories"},
-    # {url = "$BASE_URL/tags", name = "Tags"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
     {url = "$BASE_URL/about", name = "About"},
 ]
 
