@@ -47,6 +47,7 @@ Some characteristics of how I see an ideal seeker.
 * **Sincerity**: A seeker is a student, student of life, world, anything which can guide it to what it seeks, so sincerity helps immensely in putting the extra effort and care, the gains are more relative to a less sincere seeker.
 * **Adventurous**: Delving into deep research or picking up challenges for yourself to discover an aspect about it, taking things head on. A sort of obstacle is the way sort of mindset(stoic). This inner journey that is going on in the background is not easy so such a mindset helps pick up pace, inner flow. A bit of ambition maybe for something more in life.
 * **Critical Thinking**: In the age of information consuming large amounts and being able to discern what is useful, valid and incorrect.
+*  **Conscience**: An inner moral and ethical system. Preferably developed by self by pondering while passing through life or a chosen authority.
 * A never give up attitude. Being ready to pay the price even if it maybe your own ego. Being willing to change yourself and work on yourself.
 
 [Steve Jobs said]([YouTube](https://youtu.be/E8kHDJKdJXM))
