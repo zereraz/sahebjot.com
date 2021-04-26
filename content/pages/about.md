@@ -10,4 +10,4 @@ I'm a software engineer, budding entrepreneur, deeply into spirituality. I am a 
 
 I started this blog mainly to practice my writing, which isn't great to be honest.
 
-Posts will range across various topics, some dev, learning, growth, startups, personal experiences, meditation, psychology, health and esoteric eclectic world views.
+Posts will range across various topics, some dev, learning, growth, startups, personal experiences, meditation, philosophy, psychology, health and esoteric eclectic world views.

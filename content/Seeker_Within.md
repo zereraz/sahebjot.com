@@ -17,7 +17,7 @@ As we grow older, we start to play more and more in the world. The world is so v
 At some point we encounter some hard(relatively) questions, realisations about reality. The idea of the world we had in our head changes, becomes deeper in a sense. The older model still worked for many cases but this new model gives a certain depth, sometimes emotional or intellectual. It maps reality more accurately. Models of world are carved within while playing. Everyday begins a new adventure or sometimes removing boredom becomes a challenge in itself. This is our becoming more than we were, uncovering reality, discovering sometimes rediscovering old aspects of ourselves, like a plant even our mental/psychological aspects grow.
 
 
-<img src="/sprout-plant.jpg" alt="growth" width="400"/>
+<img src="/sprout-plant.jpg" alt="growth" width="350"/>
 
 
 More time passes. Even though most of us came here confused but by now some of us have collected some answers or pieces of answers, others forgot the questions or outright ignored them. We sprint through life trying to live and make best of our circumstances. Eventually some form of midlife, quarter life crisis will re-trigger the patterns of revising our models of the world of ourselves and our place here. We try to collect some meaning, sometimes to bear the suffering in life or to make the most of living itself.
@@ -25,10 +25,10 @@ More time passes. Even though most of us came here confused but by now some of u
 While going through life, who is collecting? Collecting the meaning, the questions, the answers all the while living. Even if not explicitly within the conscious part. This aspect of yourself I’m calling the Seeker. The aspect that isn’t easily satisfied, looking for something deeper, perplexed by some very hard questions.
 
 [Existentialism](https://en.wikipedia.org/wiki/Existentialism) is a form of philosophical inquiry that explores the problem of human existence and centres on the lived experience of the thinking, feeling, acting  individual. 
-There are some very hard questions in your bag, you collected encountered and you have the **need** to solve them. The seeker aspect is a wanderer, clearly we don’t know the answer yet. Some give up, call it absurd a sort of pride in the conclusion that there is nothing to it and they know it. The pride is in the strength of being able to accept that which isn’t, but deep down there was a wish of something to it. In my opinion they just give up, for many after herculean efforts and for others looking at such efforts and following their answers. The absurdity is in the lack of elegance, to exist, seek and yet nothing to it creates a void.
-If there was some deep rooted/underlying meaning to existence then that could be used to generate meaning as much as needed as that is why there is existence, an inherent underlying ocean of meaning. Respite to that painful existential thirst.
+There are some very hard questions in your bag, you collected encountered and you have the **need** to solve them. The seeker aspect is a wanderer, clearly we don’t know the answers yet. Some give up, call it absurd a sort of pride in the conclusion that there is nothing to it and they know it. The pride is in the strength of being able to accept that which isn’t while most remain deluded, but deep down there was a wish of something to it. In my opinion they just give up(concluded), for many after herculean efforts and for others looking at such efforts and following their answers. The absurdity is in the lack of elegance, to exist, seek and yet nothing to it evokes such a reaction.
+If there is some deep rooted/underlying meaning to existence then that could be used to generate meaning as much as needed as that is why there is existence, an inherent underlying ocean of meaning and purpose. Respite to that painful existential thirst.
 
-![Le_Penseur_in_the_Jardin_du_Musée_Rodin](/thinking-man.jpg)
+<img src="/thinking-man.jpg" alt="Le_Penseur_in_the_Jardin_du_Musée_Rodin" width="320" height="450"/>
 
 Recognise that seeker within, nurture it. Look for the signal within the noise, the lighthouse in this terrifying world ocean. A single candle illuminating dense murky  darkness. Seemingly scary questions, don’t run from it or take it personally. Why ignore what one has to face eventually, delayed gratification in here would give dividends to a much more meaningful and joyous existence. This seeker is a meaning generating part of your being. It can get clogged by too many piled up questions or unintegrated answers.
 
